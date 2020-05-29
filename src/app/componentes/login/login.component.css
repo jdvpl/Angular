@@ -1,0 +1,39 @@
+.contenedorLogin{
+    margin: 0 auto;
+    width: 30%;
+    padding-top: 10rem;
+}
+
+label {
+    font-size: 2rem;
+    color: aliceblue;
+}
+
+.form-control{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, .6)!important;
+}
+
+.form-control::-webkit-input-placeholder { color: white; }  /* WebKit, Blink, Edge */
+.form-control:-moz-placeholder { color: white; }  /* Mozilla Firefox 4 to 18 */
+.form-control::-moz-placeholder { color: white; }  /* Mozilla Firefox 19+ */
+.form-control:-ms-input-placeholder { color: white; }  /* Internet Explorer 10-11 */
+.form-control::-ms-input-placeholder { color: white; }  /* Microsoft Edge */
+
+.smallBlanco{
+    color: aliceblue;
+}
+::-webkit-scrollbar{
+    border-radius: 10px;
+    width: 5px;
+    background-color: rgb(168, 12, 12);
+}
+::-webkit-scrollbar-track{
+    border-radius: 5px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: black;
+}
+::-webkit-scrollbar-thumb{
+    border-radius: 5px;
+    background-color: rgb(243, 21, 13); 
+}

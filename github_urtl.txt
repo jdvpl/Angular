@@ -1,0 +1,14 @@
+
+GITHUB
+https://github.com/jucar-sys/eCommerce.git
+
+CREDENCIALES
+Correo: juan@mail.com
+Contraseña: 123456
+
+
+IMPORTANTE
+Se utilizó la nueva base de firebase (FIRESTORE CLOUD)
+El Login fué realizado con la herramienta AUTH de Firebase
+Se construyó todo en Angular 7
+Fué un proyecto complicado porque tuve que investigar muchas cosas de Angular 7, así como de Firebase y de Firestore
